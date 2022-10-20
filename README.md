@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-node version - v16.18.0 (LTS)
+node version - v16.18.0 (LTS)<br />
 npm version - 8.19.2
 
 ## Run
